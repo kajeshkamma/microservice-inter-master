@@ -4,9 +4,7 @@ import java.io.Serializable;
 
 public class AccountDetails implements Serializable {
 
-	/**
-	 * 
-	 */
+	
 	private static final long serialVersionUID = 3878868457050532960L;
 
 	private Long accountNumber;

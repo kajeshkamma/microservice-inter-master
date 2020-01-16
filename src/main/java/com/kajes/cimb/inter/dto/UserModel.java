@@ -9,9 +9,7 @@ import com.fasterxml.jackson.annotation.JsonInclude;
 @JsonInclude(JsonInclude.Include.NON_EMPTY)
 public class UserModel implements Serializable {
 
-	/**
-	 * 
-	 */
+	
 	private static final long serialVersionUID = -7405779792372388189L;
 
 	private Long userId;

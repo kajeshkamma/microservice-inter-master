@@ -4,11 +4,7 @@ import java.io.Serializable;
 
 import com.fasterxml.jackson.annotation.JsonInclude;
 
-/**
- * The Class MessageDetail.
- *
- * @author Vandana_Emmadi
- */
+
 @JsonInclude(JsonInclude.Include.NON_EMPTY)
 public class MessageDetail implements Serializable {
 

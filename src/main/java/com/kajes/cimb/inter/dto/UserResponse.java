@@ -5,9 +5,7 @@ import java.util.List;
 
 import com.fasterxml.jackson.annotation.JsonInclude;
 
-/**
- * The Class UserResponse.
- */
+
 @JsonInclude(JsonInclude.Include.NON_EMPTY)
 public class UserResponse implements Serializable {
 
